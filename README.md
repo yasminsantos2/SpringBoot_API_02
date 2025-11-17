@@ -1,33 +1,46 @@
-## 💻 Sobre o projeto
+<div align="center">
 
-Voll.med é uma clínica médica fictícia que precisa de um aplicativo para gestão de consultas. O aplicativo deve possuir funcionalidades que permitam o cadastro de médicos e de pacientes, e também o agendamento e cancelamento de consultas.
+<h1>🏥 Voll.med — API REST com Spring Boot + JWT + MySQL</h1>
 
-Enquanto um time de desenvolvimento será responsável pelo aplicativo mobile, o nosso será responsável pelo desenvolvimento da API Rest desse projeto.
+<p>
+API REST desenvolvida para gerenciar <b>médicos</b>, <b>pacientes</b> e <b>autenticação JWT</b>, seguindo boas práticas de arquitetura e segurança.  
+Implementada com <b>Spring Boot 3</b>, <b>Flyway</b> para migrações de banco de dados e <b>MySQL</b>.
+</p>
 
----
+<!-- Logos das tecnologias -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70"/>
+<img src="https://cdn-icons-png.flaticon.com/512/599/599318.png" width="70"/> <!-- JWT icon -->
 
-## ⚙️ Funcionalidades
+</div>
 
-- [x] CRUD de médicos;
-- [x] CRUD de pacientes;
-- [ ] Agendamento de consultas(em breve);
-- [ ] Cancelamento de consultas(em breve);
-
----
-
-
-
-## 🛠 Tecnologias
-
-As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do projeto:
-
-- **[Java 17](https://www.oracle.com/java)**
-- **[Spring Boot 3](https://spring.io/projects/spring-boot)**
-- **[Maven](https://maven.apache.org)**
-- **[MySQL](https://www.mysql.com)**
-- **[Hibernate](https://hibernate.org)**
-- **[Flyway](https://flywaydb.org)**
-- **[Lombok](https://projectlombok.org)**
+<br>
 
 ---
 
+## 🚀 Tecnologias Utilizadas
+
+- **Java 17**
+- **Spring Boot 3.3.5**
+- **Spring Web**
+- **Spring Data JPA**
+- **Spring Security (JWT)**
+- **Auth0 Java JWT**
+- **Flyway (migrações de banco)**
+- **MySQL + MySQL Connector/J**
+- **Hibernate / JPA**
+- **Bean Validation**
+- **Lombok**
+- **Spring DevTools**
+
+---
+
+## 📥 Como Baixar e Instalar o Projeto
+
+### 🔽 1) Clonar o repositório
+
+Abra o terminal e execute:
+
+```bash
+https://github.com/yasminsantos2/SpringBoot_API_02.git
