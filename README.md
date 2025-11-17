@@ -16,11 +16,6 @@ Enquanto um time de desenvolvimento será responsável pelo aplicativo mobile, o
 ---
 
 
-## 📄 Documentação
-
-A documentação das funcionalidades da aplicação pode ser acessada neste link: <a href="https://trello.com/b/O0lGCsKb/api-voll-med">Trello</a>
-
----
 
 ## 🛠 Tecnologias
 
