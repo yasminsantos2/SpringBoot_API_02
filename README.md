@@ -15,11 +15,6 @@ Enquanto um time de desenvolvimento será responsável pelo aplicativo mobile, o
 
 ---
 
-## 🎨 Layout
-
-O layout da aplicação mobile está disponível neste link: <a href="https://www.figma.com/file/N4CgpJqsg7gjbKuDmra3EV/Voll.med">Figma</a>
-
----
 
 ## 📄 Documentação
 
@@ -41,10 +36,3 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 
 ---
 
-## 📝 Licença
-
-Projeto desenvolvido por [Alura](https://www.alura.com.br) e utilizado nos cursos de Spring Boot.
-
-Instrutor: [Rodrigo Ferreira](https://cursos.alura.com.br/user/rodrigo-ferreira) 
-
----
